@@ -16,5 +16,3 @@ let accState;
 console.log(accState);
 
 console.table([accountId, accountEmail, pswd, accountCity, accState]);
-
-//Datatypes
