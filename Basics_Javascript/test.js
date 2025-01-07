@@ -11,3 +11,10 @@ accountEmail = "shre@gmail.com"
 pswd = "2345"
 accountCity = "Bengaluru"
 console.table([accountId, accountEmail, pswd, accountCity])
+
+let accState;
+console.log(accState);
+
+console.table([accountId, accountEmail, pswd, accountCity, accState]);
+
+//Datatypes
